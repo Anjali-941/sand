@@ -1,3 +1,5 @@
+my new file
+
 read num
 s=$((num%2))
 if ( $s -eq 0 )
