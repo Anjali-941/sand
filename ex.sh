@@ -1,5 +1,5 @@
 my new file
-
+one feature
 read num
 s=$((num%2))
 if ( $s -eq 0 )
