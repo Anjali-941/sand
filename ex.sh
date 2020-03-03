@@ -6,3 +6,4 @@ echo "num is $num"
 else
 echo "num is o"
 fi
+hai all
