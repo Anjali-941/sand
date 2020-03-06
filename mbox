@@ -1,0 +1,610 @@
+From mca27@mca27-HP-Pavilion-Desktop-590-p0xxx  Tue Jan 28 21:03:08 2020
+Return-Path: <mca27@mca27-HP-Pavilion-Desktop-590-p0xxx>
+X-Original-To: mca27
+Delivered-To: mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Received: by mca27-HP-Pavilion-Desktop-590-p0xxx (Postfix, from userid 1000)
+	id D91264A1034; Tue, 28 Jan 2020 21:03:08 +0530 (IST)
+Subject: Output from your job       17
+To: mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Message-Id: <20200128153308.D91264A1034@mca27-HP-Pavilion-Desktop-590-p0xxx>
+Date: Tue, 28 Jan 2020 21:03:08 +0530 (IST)
+From: mca27 <mca27@mca27-HP-Pavilion-Desktop-590-p0xxx>
+
+hello world
+
+From mca27@mca27-HP-Pavilion-Desktop-590-p0xxx  Tue Jan 28 21:06:16 2020
+Return-Path: <mca27@mca27-HP-Pavilion-Desktop-590-p0xxx>
+X-Original-To: mca27
+Delivered-To: mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Received: by mca27-HP-Pavilion-Desktop-590-p0xxx (Postfix, from userid 1000)
+	id C4F1A4A2A57; Tue, 28 Jan 2020 21:06:16 +0530 (IST)
+Subject: Output from your job       18
+To: mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Message-Id: <20200128153616.C4F1A4A2A57@mca27-HP-Pavilion-Desktop-590-p0xxx>
+Date: Tue, 28 Jan 2020 21:06:16 +0530 (IST)
+From: mca27 <mca27@mca27-HP-Pavilion-Desktop-590-p0xxx>
+
+hai all
+
+From mca27@mca27-HP-Pavilion-Desktop-590-p0xxx  Tue Jan 28 21:11:00 2020
+Return-Path: <mca27@mca27-HP-Pavilion-Desktop-590-p0xxx>
+X-Original-To: mca27
+Delivered-To: mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Received: by mca27-HP-Pavilion-Desktop-590-p0xxx (Postfix, from userid 1000)
+	id 6F2264A2A57; Tue, 28 Jan 2020 21:11:00 +0530 (IST)
+Subject: Output from your job       19
+To: mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Message-Id: <20200128154100.6F2264A2A57@mca27-HP-Pavilion-Desktop-590-p0xxx>
+Date: Tue, 28 Jan 2020 21:11:00 +0530 (IST)
+From: mca27 <mca27@mca27-HP-Pavilion-Desktop-590-p0xxx>
+
+hello world
+
+From MAILER-DAEMON  Tue Jan 28 21:18:47 2020
+Return-Path: <>
+X-Original-To: mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Delivered-To: mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Received: by mca27-HP-Pavilion-Desktop-590-p0xxx (Postfix)
+	id 387CD4A2BFB; Tue, 28 Jan 2020 21:18:47 +0530 (IST)
+Date: Tue, 28 Jan 2020 21:18:47 +0530 (IST)
+From: MAILER-DAEMON@mca27-HP-Pavilion-Desktop-590-p0xxx (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="2999F4A2AA4.1580226527/mca27-HP-Pavilion-Desktop-590-p0xxx"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20200128154847.387CD4A2BFB@mca27-HP-Pavilion-Desktop-590-p0xxx>
+
+This is a MIME-encapsulated message.
+
+--2999F4A2AA4.1580226527/mca27-HP-Pavilion-Desktop-590-p0xxx
+Content-Description: Notification
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+This is the mail system at host mca27-hp-pavilion-desktop-590-p0xxx.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<mca52@mca27-HP-Pavilion-Desktop-590-p0xxx>: unknown user: "mca52"
+
+<mca82@mca27-HP-Pavilion-Desktop-590-p0xxx>: unknown user: "mca82"
+
+--2999F4A2AA4.1580226527/mca27-HP-Pavilion-Desktop-590-p0xxx
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mca27-HP-Pavilion-Desktop-590-p0xxx
+X-Postfix-Queue-ID: 2999F4A2AA4
+X-Postfix-Sender: rfc822; mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Arrival-Date: Tue, 28 Jan 2020 21:18:46 +0530 (IST)
+
+Final-Recipient: rfc822; mca52@mca27-HP-Pavilion-Desktop-590-p0xxx
+Original-Recipient: rfc822;mca52@mca27-HP-Pavilion-Desktop-590-p0xxx
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: X-Postfix; unknown user: "mca52"
+
+Final-Recipient: rfc822; mca82@mca27-HP-Pavilion-Desktop-590-p0xxx
+Original-Recipient: rfc822;mca82@mca27-HP-Pavilion-Desktop-590-p0xxx
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: X-Postfix; unknown user: "mca82"
+
+--2999F4A2AA4.1580226527/mca27-HP-Pavilion-Desktop-590-p0xxx
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <mca27@mca27-HP-Pavilion-Desktop-590-p0xxx>
+Received: by mca27-HP-Pavilion-Desktop-590-p0xxx (Postfix, from userid 1000)
+	id 2999F4A2AA4; Tue, 28 Jan 2020 21:18:46 +0530 (IST)
+Subject: hello world
+To: <mca52@mca27-HP-Pavilion-Desktop-590-p0xxx>
+Cc: <mca82@mca27-HP-Pavilion-Desktop-590-p0xxx>
+X-Mailer: mail (GNU Mailutils 3.4)
+Message-Id: <20200128154846.2999F4A2AA4@mca27-HP-Pavilion-Desktop-590-p0xxx>
+Date: Tue, 28 Jan 2020 21:18:46 +0530 (IST)
+From: mca27 <mca27@mca27-HP-Pavilion-Desktop-590-p0xxx>
+
+helooo all
+
+--2999F4A2AA4.1580226527/mca27-HP-Pavilion-Desktop-590-p0xxx--
+
+From MAILER-DAEMON  Tue Jan 28 21:17:10 2020
+Return-Path: <>
+X-Original-To: mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Delivered-To: mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Received: by mca27-HP-Pavilion-Desktop-590-p0xxx (Postfix)
+	id E09864A2BFB; Tue, 28 Jan 2020 21:17:10 +0530 (IST)
+Date: Tue, 28 Jan 2020 21:17:10 +0530 (IST)
+From: MAILER-DAEMON@mca27-HP-Pavilion-Desktop-590-p0xxx (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="47B0E4A2A57.1580226430/mca27-HP-Pavilion-Desktop-590-p0xxx"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20200128154710.E09864A2BFB@mca27-HP-Pavilion-Desktop-590-p0xxx>
+X-IMAPbase: 1580227110 3
+Status: O
+X-UID: 1
+
+This is a MIME-encapsulated message.
+
+--47B0E4A2A57.1580226430/mca27-HP-Pavilion-Desktop-590-p0xxx
+Content-Description: Notification
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+This is the mail system at host mca27-hp-pavilion-desktop-590-p0xxx.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<aishwaryavenugobal@gmail.com>: host gmail-smtp-in.l.google.com[74.125.24.27]
+    said: 550-5.1.1 The email account that you tried to reach does not exist.
+    Please try 550-5.1.1 double-checking the recipient's email address for
+    typos or 550-5.1.1 unnecessary spaces. Learn more at 550 5.1.1
+    https://support.google.com/mail/?p=NoSuchUser l70si11205785pge.352 - gsmtp
+    (in reply to RCPT TO command)
+
+--47B0E4A2A57.1580226430/mca27-HP-Pavilion-Desktop-590-p0xxx
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mca27-HP-Pavilion-Desktop-590-p0xxx
+X-Postfix-Queue-ID: 47B0E4A2A57
+X-Postfix-Sender: rfc822; mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Arrival-Date: Tue, 28 Jan 2020 21:17:01 +0530 (IST)
+
+Final-Recipient: rfc822; aishwaryavenugobal@gmail.com
+Original-Recipient: rfc822;aishwaryavenugobal@gmail.com
+Action: failed
+Status: 5.1.1
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.1.1 The email account that you tried to reach does
+    not exist. Please try 550-5.1.1 double-checking the recipient's email
+    address for typos or 550-5.1.1 unnecessary spaces. Learn more at 550 5.1.1
+    https://support.google.com/mail/?p=NoSuchUser l70si11205785pge.352 - gsmtp
+
+--47B0E4A2A57.1580226430/mca27-HP-Pavilion-Desktop-590-p0xxx
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <mca27@mca27-HP-Pavilion-Desktop-590-p0xxx>
+Received: by mca27-HP-Pavilion-Desktop-590-p0xxx (Postfix, from userid 1000)
+	id 47B0E4A2A57; Tue, 28 Jan 2020 21:17:01 +0530 (IST)
+Subject: Hello World
+To: <anjalivenugobal@gmail.com>
+Cc: <aishwaryavenugobal@gmail.com>
+X-Mailer: mail (GNU Mailutils 3.4)
+Message-Id: <20200128154701.47B0E4A2A57@mca27-HP-Pavilion-Desktop-590-p0xxx>
+Date: Tue, 28 Jan 2020 21:17:01 +0530 (IST)
+From: mca27 <mca27@mca27-HP-Pavilion-Desktop-590-p0xxx>
+
+fghjkjhudu
+
+--47B0E4A2A57.1580226430/mca27-HP-Pavilion-Desktop-590-p0xxx--
+
+From mca27@mca27-HP-Pavilion-Desktop-590-p0xxx  Fri Jan 31 15:40:04 2020
+Return-Path: <mca27@mca27-HP-Pavilion-Desktop-590-p0xxx>
+X-Original-To: mca27
+Delivered-To: mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Received: by mca27-HP-Pavilion-Desktop-590-p0xxx (Postfix, from userid 1000)
+	id 879CA4A2CDE; Fri, 31 Jan 2020 15:39:53 +0530 (IST)
+Subject: Output from your job        7
+To: mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Message-Id: <20200131101003.879CA4A2CDE@mca27-HP-Pavilion-Desktop-590-p0xxx>
+Date: Fri, 31 Jan 2020 15:39:53 +0530 (IST)
+From: mca27 <mca27@mca27-HP-Pavilion-Desktop-590-p0xxx>
+
+hello world
+
+From mca27@mca27-HP-Pavilion-Desktop-590-p0xxx  Fri Jan 31 15:51:44 2020
+Return-Path: <mca27@mca27-HP-Pavilion-Desktop-590-p0xxx>
+X-Original-To: mca27
+Delivered-To: mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Received: by mca27-HP-Pavilion-Desktop-590-p0xxx (Postfix, from userid 1000)
+	id 683AB4A2D6D; Fri, 31 Jan 2020 15:51:44 +0530 (IST)
+Subject: Output from your job       20
+To: mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Message-Id: <20200131102144.683AB4A2D6D@mca27-HP-Pavilion-Desktop-590-p0xxx>
+Date: Fri, 31 Jan 2020 15:51:44 +0530 (IST)
+From: mca27 <mca27@mca27-HP-Pavilion-Desktop-590-p0xxx>
+
+sh: 63: Syntax error: Unterminated quoted string
+
+From mca27@mca27-HP-Pavilion-Desktop-590-p0xxx  Fri Jan 31 15:54:46 2020
+Return-Path: <mca27@mca27-HP-Pavilion-Desktop-590-p0xxx>
+X-Original-To: mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Delivered-To: mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Received: by mca27-HP-Pavilion-Desktop-590-p0xxx (Postfix, from userid 1000)
+	id 27EC14A2D6D; Fri, 31 Jan 2020 15:54:46 +0530 (IST)
+Subject: hai all
+To: <mca52@mca52-HP-Pavilion-Desktop-590-p0xxx>
+Cc: <mca27@mca27-HP-Pavilion-Desktop-590-p0xxx>
+X-Mailer: mail (GNU Mailutils 3.4)
+Message-Id: <20200131102446.27EC14A2D6D@mca27-HP-Pavilion-Desktop-590-p0xxx>
+Date: Fri, 31 Jan 2020 15:54:46 +0530 (IST)
+From: mca27 <mca27@mca27-HP-Pavilion-Desktop-590-p0xxx>
+
+good morning
+
+From mca27@mca27-HP-Pavilion-Desktop-590-p0xxx  Fri Jan 31 16:15:55 2020
+Return-Path: <mca27@mca27-HP-Pavilion-Desktop-590-p0xxx>
+X-Original-To: mca27
+Delivered-To: mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Received: by mca27-HP-Pavilion-Desktop-590-p0xxx (Postfix, from userid 1000)
+	id A2C4C4A2D70; Fri, 31 Jan 2020 16:15:55 +0530 (IST)
+Subject: Output from your job       22
+To: mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Message-Id: <20200131104555.A2C4C4A2D70@mca27-HP-Pavilion-Desktop-590-p0xxx>
+Date: Fri, 31 Jan 2020 16:15:55 +0530 (IST)
+From: mca27 <mca27@mca27-HP-Pavilion-Desktop-590-p0xxx>
+
+sh: 63: hai: not found
+
+From MAILER-DAEMON  Fri Jan 31 16:53:57 2020
+Return-Path: <>
+X-Original-To: mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Delivered-To: mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Received: by mca27-HP-Pavilion-Desktop-590-p0xxx (Postfix)
+	id 754F94A2D75; Fri, 31 Jan 2020 16:53:57 +0530 (IST)
+Date: Fri, 31 Jan 2020 16:53:57 +0530 (IST)
+From: MAILER-DAEMON@mca27-HP-Pavilion-Desktop-590-p0xxx (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="5BB3F4A2D73.1580469837/mca27-HP-Pavilion-Desktop-590-p0xxx"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20200131112357.754F94A2D75@mca27-HP-Pavilion-Desktop-590-p0xxx>
+
+This is a MIME-encapsulated message.
+
+--5BB3F4A2D73.1580469837/mca27-HP-Pavilion-Desktop-590-p0xxx
+Content-Description: Notification
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+This is the mail system at host mca27-hp-pavilion-desktop-590-p0xxx.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<mca23-HP-Pavilion-Desktop-590-p0xxx@mca27-HP-Pavilion-Desktop-590-p0xxx>:
+    unknown user: "mca23-hp-pavilion-desktop-590-p0xxx"
+
+<mca52-HP-Pavilion-Desktop-590-p0xxx@mca27-HP-Pavilion-Desktop-590-p0xxx>:
+    unknown user: "mca52-hp-pavilion-desktop-590-p0xxx"
+
+--5BB3F4A2D73.1580469837/mca27-HP-Pavilion-Desktop-590-p0xxx
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mca27-HP-Pavilion-Desktop-590-p0xxx
+X-Postfix-Queue-ID: 5BB3F4A2D73
+X-Postfix-Sender: rfc822; mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Arrival-Date: Fri, 31 Jan 2020 16:53:56 +0530 (IST)
+
+Final-Recipient: rfc822; mca23-HP-Pavilion-Desktop-590-p0xxx@mca27-HP-Pavilion-Desktop-590-p0xxx
+Original-Recipient: rfc822;mca23-HP-Pavilion-Desktop-590-p0xxx@mca27-HP-Pavilion-Desktop-590-p0xxx
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: X-Postfix; unknown user: "mca23-hp-pavilion-desktop-590-p0xxx"
+
+Final-Recipient: rfc822; mca52-HP-Pavilion-Desktop-590-p0xxx@mca27-HP-Pavilion-Desktop-590-p0xxx
+Original-Recipient: rfc822;mca52-HP-Pavilion-Desktop-590-p0xxx@mca27-HP-Pavilion-Desktop-590-p0xxx
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: X-Postfix; unknown user: "mca52-hp-pavilion-desktop-590-p0xxx"
+
+--5BB3F4A2D73.1580469837/mca27-HP-Pavilion-Desktop-590-p0xxx
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <mca27@mca27-HP-Pavilion-Desktop-590-p0xxx>
+Received: by mca27-HP-Pavilion-Desktop-590-p0xxx (Postfix, from userid 1000)
+	id 5BB3F4A2D73; Fri, 31 Jan 2020 16:53:56 +0530 (IST)
+Subject: hai all
+To: <mca23-HP-Pavilion-Desktop-590-p0xxx@mca27-HP-Pavilion-Desktop-590-p0xxx>
+Cc: <mca52-HP-Pavilion-Desktop-590-p0xxx@mca27-HP-Pavilion-Desktop-590-p0xxx>
+X-Mailer: mail (GNU Mailutils 3.4)
+Message-Id: <20200131112356.5BB3F4A2D73@mca27-HP-Pavilion-Desktop-590-p0xxx>
+Date: Fri, 31 Jan 2020 16:53:56 +0530 (IST)
+From: mca27 <mca27@mca27-HP-Pavilion-Desktop-590-p0xxx>
+
+manjima kutty i love 
+
+--5BB3F4A2D73.1580469837/mca27-HP-Pavilion-Desktop-590-p0xxx--
+
+From mca27@mca27-HP-Pavilion-Desktop-590-p0xxx  Fri Jan 31 16:26:23 2020
+Return-Path: <mca27@mca27-HP-Pavilion-Desktop-590-p0xxx>
+X-Original-To: mca27
+Delivered-To: mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Received: by mca27-HP-Pavilion-Desktop-590-p0xxx (Postfix, from userid 1000)
+	id D71454A2D73; Fri, 31 Jan 2020 16:26:23 +0530 (IST)
+Subject: Output from your job       23
+To: mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Message-Id: <20200131105623.D71454A2D73@mca27-HP-Pavilion-Desktop-590-p0xxx>
+Date: Fri, 31 Jan 2020 16:26:23 +0530 (IST)
+From: mca27 <mca27@mca27-HP-Pavilion-Desktop-590-p0xxx>
+Status: O
+X-UID: 4
+
+warning: commands will be executed using /bin/sh
+job 24 at Sat Feb  1 10:00:00 2020
+touch: cannot touch 'home/anu.txt': No such file or directory
+
+From MAILER-DAEMON  Fri Jan 31 17:00:46 2020
+Return-Path: <>
+X-Original-To: mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Delivered-To: mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Received: by mca27-HP-Pavilion-Desktop-590-p0xxx (Postfix)
+	id EABF64A2D75; Fri, 31 Jan 2020 17:00:46 +0530 (IST)
+Date: Fri, 31 Jan 2020 17:00:46 +0530 (IST)
+From: MAILER-DAEMON@mca27-HP-Pavilion-Desktop-590-p0xxx (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="AE0764A2D73.1580470246/mca27-HP-Pavilion-Desktop-590-p0xxx"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20200131113046.EABF64A2D75@mca27-HP-Pavilion-Desktop-590-p0xxx>
+
+This is a MIME-encapsulated message.
+
+--AE0764A2D73.1580470246/mca27-HP-Pavilion-Desktop-590-p0xxx
+Content-Description: Notification
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+This is the mail system at host mca27-hp-pavilion-desktop-590-p0xxx.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<mca23-HP-Pavilion-Desktop-590-p0xxx@mca27-HP-Pavilion-Desktop-590-p0xxx>:
+    unknown user: "mca23-hp-pavilion-desktop-590-p0xxx"
+
+<mca52-HP-Pavilion-Desktop-590-p0xxx@mca27-HP-Pavilion-Desktop-590-p0xxx>:
+    unknown user: "mca52-hp-pavilion-desktop-590-p0xxx"
+
+--AE0764A2D73.1580470246/mca27-HP-Pavilion-Desktop-590-p0xxx
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mca27-HP-Pavilion-Desktop-590-p0xxx
+X-Postfix-Queue-ID: AE0764A2D73
+X-Postfix-Sender: rfc822; mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Arrival-Date: Fri, 31 Jan 2020 17:00:45 +0530 (IST)
+
+Final-Recipient: rfc822; mca23-HP-Pavilion-Desktop-590-p0xxx@mca27-HP-Pavilion-Desktop-590-p0xxx
+Original-Recipient: rfc822;mca23-HP-Pavilion-Desktop-590-p0xxx@mca27-HP-Pavilion-Desktop-590-p0xxx
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: X-Postfix; unknown user: "mca23-hp-pavilion-desktop-590-p0xxx"
+
+Final-Recipient: rfc822; mca52-HP-Pavilion-Desktop-590-p0xxx@mca27-HP-Pavilion-Desktop-590-p0xxx
+Original-Recipient: rfc822;mca52-HP-Pavilion-Desktop-590-p0xxx@mca27-HP-Pavilion-Desktop-590-p0xxx
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: X-Postfix; unknown user: "mca52-hp-pavilion-desktop-590-p0xxx"
+
+--AE0764A2D73.1580470246/mca27-HP-Pavilion-Desktop-590-p0xxx
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <mca27@mca27-HP-Pavilion-Desktop-590-p0xxx>
+Received: by mca27-HP-Pavilion-Desktop-590-p0xxx (Postfix, from userid 1000)
+	id AE0764A2D73; Fri, 31 Jan 2020 17:00:45 +0530 (IST)
+Subject: hai all
+To: <mca52-HP-Pavilion-Desktop-590-p0xxx@mca27-HP-Pavilion-Desktop-590-p0xxx>
+Cc: <mca23-HP-Pavilion-Desktop-590-p0xxx@mca27-HP-Pavilion-Desktop-590-p0xxx>
+X-Mailer: mail (GNU Mailutils 3.4)
+Message-Id: <20200131113045.AE0764A2D73@mca27-HP-Pavilion-Desktop-590-p0xxx>
+Date: Fri, 31 Jan 2020 17:00:45 +0530 (IST)
+From: mca27 <mca27@mca27-HP-Pavilion-Desktop-590-p0xxx>
+
+hai good moring dii
+
+--AE0764A2D73.1580470246/mca27-HP-Pavilion-Desktop-590-p0xxx--
+
+From MAILER-DAEMON  Fri Jan 31 16:49:42 2020
+Return-Path: <>
+X-Original-To: mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Delivered-To: mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Received: by mca27-HP-Pavilion-Desktop-590-p0xxx (Postfix)
+	id D6CA54A2D75; Fri, 31 Jan 2020 16:49:42 +0530 (IST)
+Date: Fri, 31 Jan 2020 16:49:42 +0530 (IST)
+From: MAILER-DAEMON@mca27-HP-Pavilion-Desktop-590-p0xxx (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="8C4AD4A2D73.1580469582/mca27-HP-Pavilion-Desktop-590-p0xxx"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20200131111942.D6CA54A2D75@mca27-HP-Pavilion-Desktop-590-p0xxx>
+Status: O
+X-UID: 5
+
+This is a MIME-encapsulated message.
+
+--8C4AD4A2D73.1580469582/mca27-HP-Pavilion-Desktop-590-p0xxx
+Content-Description: Notification
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+This is the mail system at host mca27-hp-pavilion-desktop-590-p0xxx.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<mca27-HP-Pavilion-Desktop-590-p0xxx@mca27-HP-Pavilion-Desktop-590-p0xxx>:
+    unknown user: "mca27-hp-pavilion-desktop-590-p0xxx"
+
+<mca52-HP-Pavilion-Desktop-590-p0xxx@mca27-HP-Pavilion-Desktop-590-p0xxx>:
+    unknown user: "mca52-hp-pavilion-desktop-590-p0xxx"
+
+--8C4AD4A2D73.1580469582/mca27-HP-Pavilion-Desktop-590-p0xxx
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mca27-HP-Pavilion-Desktop-590-p0xxx
+X-Postfix-Queue-ID: 8C4AD4A2D73
+X-Postfix-Sender: rfc822; mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Arrival-Date: Fri, 31 Jan 2020 16:49:41 +0530 (IST)
+
+Final-Recipient: rfc822; mca27-HP-Pavilion-Desktop-590-p0xxx@mca27-HP-Pavilion-Desktop-590-p0xxx
+Original-Recipient: rfc822;mca27-HP-Pavilion-Desktop-590-p0xxx@mca27-HP-Pavilion-Desktop-590-p0xxx
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: X-Postfix; unknown user: "mca27-hp-pavilion-desktop-590-p0xxx"
+
+Final-Recipient: rfc822; mca52-HP-Pavilion-Desktop-590-p0xxx@mca27-HP-Pavilion-Desktop-590-p0xxx
+Original-Recipient: rfc822;mca52-HP-Pavilion-Desktop-590-p0xxx@mca27-HP-Pavilion-Desktop-590-p0xxx
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: X-Postfix; unknown user: "mca52-hp-pavilion-desktop-590-p0xxx"
+
+--8C4AD4A2D73.1580469582/mca27-HP-Pavilion-Desktop-590-p0xxx
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <mca27@mca27-HP-Pavilion-Desktop-590-p0xxx>
+Received: by mca27-HP-Pavilion-Desktop-590-p0xxx (Postfix, from userid 1000)
+	id 8C4AD4A2D73; Fri, 31 Jan 2020 16:49:41 +0530 (IST)
+Subject: hai all
+To: <mca52-HP-Pavilion-Desktop-590-p0xxx@mca27-HP-Pavilion-Desktop-590-p0xxx>
+Cc: <mca27-HP-Pavilion-Desktop-590-p0xxx@mca27-HP-Pavilion-Desktop-590-p0xxx>
+X-Mailer: mail (GNU Mailutils 3.4)
+Message-Id: <20200131111941.8C4AD4A2D73@mca27-HP-Pavilion-Desktop-590-p0xxx>
+Date: Fri, 31 Jan 2020 16:49:41 +0530 (IST)
+From: mca27 <mca27@mca27-HP-Pavilion-Desktop-590-p0xxx>
+
+hai dii
+
+--8C4AD4A2D73.1580469582/mca27-HP-Pavilion-Desktop-590-p0xxx--
+
+From MAILER-DAEMON  Fri Jan 31 17:11:16 2020
+Return-Path: <>
+X-Original-To: mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Delivered-To: mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Received: by mca27-HP-Pavilion-Desktop-590-p0xxx (Postfix)
+	id D24A74A2D75; Fri, 31 Jan 2020 17:11:16 +0530 (IST)
+Date: Fri, 31 Jan 2020 17:11:16 +0530 (IST)
+From: MAILER-DAEMON@mca27-HP-Pavilion-Desktop-590-p0xxx (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="B865B4A2D73.1580470876/mca27-HP-Pavilion-Desktop-590-p0xxx"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20200131114116.D24A74A2D75@mca27-HP-Pavilion-Desktop-590-p0xxx>
+Status: O
+X-UID: 8
+
+This is a MIME-encapsulated message.
+
+--B865B4A2D73.1580470876/mca27-HP-Pavilion-Desktop-590-p0xxx
+Content-Description: Notification
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+This is the mail system at host mca27-hp-pavilion-desktop-590-p0xxx.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<mca52-HP-Pavilion-Desktop-590-p0xxx@mca27-HP-Pavilion-Desktop-590-p0xxx>:
+    unknown user: "mca52-hp-pavilion-desktop-590-p0xxx"
+
+--B865B4A2D73.1580470876/mca27-HP-Pavilion-Desktop-590-p0xxx
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mca27-HP-Pavilion-Desktop-590-p0xxx
+X-Postfix-Queue-ID: B865B4A2D73
+X-Postfix-Sender: rfc822; mca27@mca27-HP-Pavilion-Desktop-590-p0xxx
+Arrival-Date: Fri, 31 Jan 2020 17:11:16 +0530 (IST)
+
+Final-Recipient: rfc822; mca52-HP-Pavilion-Desktop-590-p0xxx@mca27-HP-Pavilion-Desktop-590-p0xxx
+Original-Recipient: rfc822;mca52-HP-Pavilion-Desktop-590-p0xxx@mca27-HP-Pavilion-Desktop-590-p0xxx
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: X-Postfix; unknown user: "mca52-hp-pavilion-desktop-590-p0xxx"
+
+--B865B4A2D73.1580470876/mca27-HP-Pavilion-Desktop-590-p0xxx
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <mca27@mca27-HP-Pavilion-Desktop-590-p0xxx>
+Received: by mca27-HP-Pavilion-Desktop-590-p0xxx (Postfix, from userid 1000)
+	id B865B4A2D73; Fri, 31 Jan 2020 17:11:16 +0530 (IST)
+Subject: Mail subject
+To: <mca52-HP-Pavilion-Desktop-590-p0xxx@mca27-HP-Pavilion-Desktop-590-p0xxx>
+X-Mailer: mail (GNU Mailutils 3.4)
+Message-Id: <20200131114116.B865B4A2D73@mca27-HP-Pavilion-Desktop-590-p0xxx>
+Date: Fri, 31 Jan 2020 17:11:16 +0530 (IST)
+From: mca27 <mca27@mca27-HP-Pavilion-Desktop-590-p0xxx>
+
+hai mango
+
+--B865B4A2D73.1580470876/mca27-HP-Pavilion-Desktop-590-p0xxx--
+
